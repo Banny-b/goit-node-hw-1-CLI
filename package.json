@@ -10,15 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Banny-b/goit-node-hw-1-CLI.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sergey Petukhov <banny75@i.ua>",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
-  "homepage": "",
+  "homepage": "https://github.com/Banny-b/goit-node-hw-1-CLI#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   },
